@@ -4,13 +4,13 @@ This project was completed as part of the Machine Learning course at Zewail Univ
 
 # Table of Contents
 
-- Project Overview
-- Installation
-- Dataset
-- Models and Evaluation
-- Results
-- Conclusion
-- Usage
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Dataset](#dataset)
+- [Models and Evaluation](#models-and-evaluation)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [Usage](#usage)
 
 # Installation
 To run this project, you need to have Python installed along with the following packages:
