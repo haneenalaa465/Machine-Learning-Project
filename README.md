@@ -1,6 +1,6 @@
 # Project Overview
 
-This project aims to perform activity recognition using the MHEALTH dataset. The dataset is analyzed and classified using various machine learning models, including k-Nearest Neighbors (KNN), Support Vector Machine (SVM), Neural Networks, and Logistic Regression. The primary objective is to identify the best-performing model based on evaluation metrics such as accuracy, precision, recall, and F1-score.
+This project was completed as part of the Machine Learning course at Zewail University in Spring 2024. This project aims to perform activity recognition using the MHEALTH dataset. The dataset is analyzed and classified using various machine learning models, including k-Nearest Neighbors (KNN), Support Vector Machine (SVM), Neural Networks, and Logistic Regression. The primary objective is to identify the best-performing model based on evaluation metrics such as accuracy, precision, recall, and F1-score.
 
 # Table of Contents
 
@@ -45,10 +45,10 @@ The following models were implemented and evaluated:
 # Results
 ## Model Performance
 
-- *KNN*: Achieved an accuracy of approximately 95%.
-- *SVM*: Achieved an accuracy of around 95%.
-- *Neural Network*: Achieved an accuracy of approximately 94%.
-- *Logistic Regression*: Achieved the lowest accuracy at approximately 54%.
+- **KNN**: Achieved an accuracy of approximately 95%.
+- **SVM**: Achieved an accuracy of around 95%.
+- **Neural Network**: Achieved an accuracy of approximately 94%.
+- **Logistic Regression**: Achieved the lowest accuracy at approximately 54%.
   
 ## Best-Performing Model
 The SVM model with an RBF kernel is identified as the best model for activity recognition on the MHEALTH dataset, achieving the highest accuracy and robust performance in classifying different activities.
